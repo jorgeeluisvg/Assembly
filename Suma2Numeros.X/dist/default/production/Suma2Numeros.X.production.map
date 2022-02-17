@@ -1,0 +1,32 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Thu Feb 17 13:40:59 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000008
+                   .cinit    romdata   0x000004    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+            6 out of 1093 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Inicio   0x000000    program     static C:\Users\Potter\Desktop\assembly scripts\Suma2Numeros.X\codigo.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Inicio   0x000000    program     static C:\Users\Potter\Desktop\assembly scripts\Suma2Numeros.X\codigo.asm
+
+
