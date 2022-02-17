@@ -6,11 +6,11 @@
     #include <p16f84.INC> ;;;LIBRERIA
     
     ;;;direcciones memoria
-	var EQU 0X20
-	RESL EQU 0X0E
+	var EQU 0X20  ;;;DIRECCION DE LA MEMORIA QUE OCUPA VAR	
+	RESL EQU 0X0E ;;;DIRECCION DE LA MEMORIA QUE OCUPA RESL
     ;;;
     
-	ORG 0x00
+	ORG 0x00 ;;;VECTOR RESET
     
 	Inicio
 	
